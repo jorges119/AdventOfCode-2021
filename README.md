@@ -12,8 +12,8 @@ _My solutions to the 2021 edition of [Advent of Code](https://adventofcode.com/2
   | **[04](https://adventofcode.com/2021/day/4)** | [solution](src/main/scala/adventofcode/solutions/Day04.scala) | `16816` | `15220` |
   | **[05](https://adventofcode.com/2021/day/5)** | [solution](src/main/scala/adventofcode/solutions/Day05.scala) | `34102` | `34491` |
   | **[06](https://adventofcode.com/2021/day/6)** | [solution](src/main/scala/adventofcode/solutions/Day06.scala) | `24388` | `35596` |
-  | **[07](https://adventofcode.com/2021/day/7)** | [solition](src/main/scala/adventofcode/solutions/Day07.scala) | `24460` | `22776` |
-  | **[08](https://adventofcode.com/2021/day/8)** | [](src/main/scala/adventofcode/solutions/Day08.scala) |  |  |
+  | **[07](https://adventofcode.com/2021/day/7)** | [solution](src/main/scala/adventofcode/solutions/Day07.scala) | `24460` | `22776` |
+  | **[08](https://adventofcode.com/2021/day/8)** | [solution](src/main/scala/adventofcode/solutions/Day08.scala) | `28477` | `19462` |
   | **[09](https://adventofcode.com/2021/day/9)** | [](src/main/scala/adventofcode/solutions/Day09.scala) |  |  |
   | **[10](https://adventofcode.com/2021/day/10)** | [](src/main/scala/adventofcode/solutions/Day10.scala) |  |  |
   | **[11](https://adventofcode.com/2021/day/11)** | [](src/main/scala/adventofcode/solutions/Day11.scala) |  |  |
@@ -36,7 +36,7 @@ _My solutions to the 2021 edition of [Advent of Code](https://adventofcode.com/2
 
 The third and last row indicate the ranking for each part. Empty cells mean no participation.
 
-I am using the AdventOfCode challenge as a means to familiarize myself with Scala so the code here is by no means the best solution (hence the low rankings XD).
+I am using the AdventOfCode challenge as a means to familiarize myself with Scala so the code here is by no means the best solution (hence the low rankings XD, and also **WHO WAKES UP AT 6AM FOR THIS!?**).
 If you want quality solutions please [visit this repo](https://github.com/FlorianCassayre/AdventOfCode-2021) which I like to check after I find a solution for ideas on how to improve my usage of Scala (altought I leave my original answers in this repo for the judgement of everyone else).
 
 ## Usage

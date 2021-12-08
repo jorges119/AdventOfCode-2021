@@ -1,3 +1,6 @@
+# worksheet
+*.worksheet.sc
+
 # bloop and metals
 .bloop
 .bsp

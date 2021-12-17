@@ -20,9 +20,9 @@ _My solutions to the 2021 edition of [Advent of Code](https://adventofcode.com/2
   | **[12](https://adventofcode.com/2021/day/12)** | [solution](src/main/scala/adventofcode/solutions/Day12.scala) | `21689` | `19404` |
   | **[13](https://adventofcode.com/2021/day/13)** | [solution](src/main/scala/adventofcode/solutions/Day13.scala) | `23492` | `23603` |
   | **[14](https://adventofcode.com/2021/day/14)** | [solution](src/main/scala/adventofcode/solutions/Day14.scala) | `8802` | `25076` |
-  | **[15](https://adventofcode.com/2021/day/15)** | [](src/main/scala/adventofcode/solutions/Day15.scala) |  |  |
-  | **[16](https://adventofcode.com/2021/day/16)** | [](src/main/scala/adventofcode/solutions/Day16.scala) |  |  |
-  | **[17](https://adventofcode.com/2021/day/17)** | [](src/main/scala/adventofcode/solutions/Day17.scala) |  |  |
+  | **[15](https://adventofcode.com/2021/day/15)** | [solution](src/main/scala/adventofcode/solutions/Day15.scala) | `12420` | `27712` |
+  | **[16](https://adventofcode.com/2021/day/16)** | [solution](src/main/scala/adventofcode/solutions/Day16.scala) | `18284` | `19803` |
+  | **[17](https://adventofcode.com/2021/day/17)** | [solution](src/main/scala/adventofcode/solutions/Day17.scala) | `11271` | `9781` |
   | **[18](https://adventofcode.com/2021/day/18)** | [](src/main/scala/adventofcode/solutions/Day18.scala) |  |  |
   | **[19](https://adventofcode.com/2021/day/19)** | [](src/main/scala/adventofcode/solutions/Day19.scala) |  |  |
   | **[20](https://adventofcode.com/2021/day/20)** | [](src/main/scala/adventofcode/solutions/Day20.scala) |  |  |
@@ -45,7 +45,7 @@ This project runs on [Scala](https://scala-lang.org) `3.1.0` and sbt `1.5.5`.
 
 STTP client is used to obtain the challenge inputs directly from the web. For it to work you need to provide your session id (once logged in the website check your cookies), copy it in the Support object definition file.
 
-To run the code, enter `sbt run Day01`.
+I am using Metals extension on VSCode to run the code directly from the editor. For development purposes I am using the worksheet feature that provides easier interaction, but I don't commit that file because is more of a draft.
 
 ## License
 

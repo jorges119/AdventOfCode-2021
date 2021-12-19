@@ -23,7 +23,7 @@ _My solutions to the 2021 edition of [Advent of Code](https://adventofcode.com/2
   | **[15](https://adventofcode.com/2021/day/15)** | [solution](src/main/scala/adventofcode/solutions/Day15.scala) | `12420` | `27712` |
   | **[16](https://adventofcode.com/2021/day/16)** | [solution](src/main/scala/adventofcode/solutions/Day16.scala) | `18284` | `19803` |
   | **[17](https://adventofcode.com/2021/day/17)** | [solution](src/main/scala/adventofcode/solutions/Day17.scala) | `11271` | `9781` |
-  | **[18](https://adventofcode.com/2021/day/18)** | [](src/main/scala/adventofcode/solutions/Day18.scala) |  |  |
+  | **[18](https://adventofcode.com/2021/day/18)** | [solution](src/main/scala/adventofcode/solutions/Day18.scala) | `14751` | `14543` |
   | **[19](https://adventofcode.com/2021/day/19)** | [](src/main/scala/adventofcode/solutions/Day19.scala) |  |  |
   | **[20](https://adventofcode.com/2021/day/20)** | [](src/main/scala/adventofcode/solutions/Day20.scala) |  |  |
   | **[21](https://adventofcode.com/2021/day/21)** | [](src/main/scala/adventofcode/solutions/Day21.scala) |  |  |
